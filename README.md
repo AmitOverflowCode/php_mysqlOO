@@ -4,5 +4,7 @@ Connecting to MySQL db using mysqli Object oriented method.
 <ul>
 <li>connection.php</li>
 
-
+<li>create_table.php</li>
+<li>rename_table.php</li>
+<li>add_record.php</li>
 </ul>
