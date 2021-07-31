@@ -1,3 +1,8 @@
-# PHP mysqli Object oriented interface
+# PHP mysqli Object oriented interface to access MySQL database
 Connecting to MySQL db using mysqli Object oriented method.
-The secure way to connect to a MySQL db using mysqli with PHP.
+# This package contains the following files :
+<ul>
+<li>connection.php</li>
+
+
+</ul>
